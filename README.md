@@ -1,22 +1,98 @@
-<h1>Hi, I'm Faras! <br/><a> Information Security Analyst
-</a>, <a href="https://www.linkedin.com/in/farasali12/">Cybersecurity Professional</a>
+<h1>Hi, I’m Faras Ali</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<p>
+I’m a cybersecurity professional with hands-on experience across endpoint
+security, incident response, penetration testing, and security monitoring.
+I build practical attacker/defender labs to understand real-world threats
+and focus strongly on detection, response, containment, and ethical
+security practices.
+</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<p>
+🔗 <a href="https://www.linkedin.com/in/faras-a-35b660292 " target="_blank">LinkedIn</a> |
+🔗 <a href="https://github.com/farasali12" target="_blank">GitHub</a>
+</p>
 
+<hr>
+
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+<h3>🛡️ Endpoint Security & Incident Response</h3>
+<ul>
+  <li>
+    <b>Endpoint Security Monitoring & Incident Response Lab</b><br>
+    <a href="https://github.com/farasali12/endpoint-security-incident-response-lab" target="_blank">
+      View Project
+    </a>
+    <p>
+      Attacker/defender lab demonstrating endpoint monitoring, suspicious
+      process detection, runtime and network analysis, containment using
+      firewall controls, and post-incident verification in an isolated
+      environment.
+    </p>
+  </li>
+</ul>
+
+<h3>📊 SIEM & Threat Detection</h3>
+<ul>
+  <li>
+    <b>Azure SIEM Project – Threat Detection with Microsoft Sentinel</b><br>
+    <a href="https://github.com/farasali12/Azure-SIEM-Project-Threat-Detection-with-Sentinel-AMA" target="_blank">
+      View Project
+    </a>
+    <p>
+      Cloud-based SIEM project focused on log ingestion, detection rules,
+      and security monitoring using Microsoft Sentinel and Azure Monitor
+      Agent (AMA).
+    </p>
+  </li>
+</ul>
+
+<h3>🔐 Application Security & Penetration Testing</h3>
+<ul>
+  <li>
+    <b>SQL Injection Security Assessment</b><br>
+    <a href="https://github.com/farasali12/sql-injection-security-assessment" target="_blank">
+      View Project
+    </a>
+    <p>
+      Application security lab analyzing SQL injection vulnerabilities,
+      exploitation impact, and secure coding considerations in a controlled
+      environment.
+    </p>
+  </li>
+</ul>
+
+<hr>
+
+<h2>🌐 Web Development Experience</h2>
+<ul>
+  <li>
+    <b>Niagara Falls Tours Website (Private Project)</b>
+    <p>
+      Designed and developed a multi-page website for a Niagara Falls tours
+      business using HTML, CSS, and JavaScript. The project focused on
+      responsive design, navigation, and user experience. The site was
+      created as a private project and was not publicly deployed.
+    </p>
+  </li>
+</ul>
+
+<hr>
+
+<h2>🎯 Areas of Interest</h2>
+<ul>
+  <li>Security Operations (SOC)</li>
+  <li>Incident Response & DFIR</li>
+  <li>Penetration Testing & Application Security</li>
+  <li>Cloud & Endpoint Security</li>
+</ul>
+
+<hr>
+
+<h2>📫 Get in Touch</h2>
+<p>
+If you’d like to discuss cybersecurity projects, security roles, or
+collaboration opportunities, feel free to connect with me on LinkedIn.
+</p>
 
