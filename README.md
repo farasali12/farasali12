@@ -1,16 +1,35 @@
-<h1>Hi, I’m Faras Ali</h1>
+<h1>Hi, I’m Faras Ali 👋</h1>
 
 <p>
-I’m a cybersecurity professional with hands-on experience across endpoint
-security, incident response, penetration testing, and security monitoring.
-I build practical attacker/defender labs to understand real-world threats
-and focus strongly on detection, response, containment, and ethical
-security practices.
+AI + Cybersecurity | AWS Certified | Building real-world security and AI-driven tools
 </p>
 
 <p>
-🔗 <a href="https://www.linkedin.com/in/faras-a-35b660292 " target="_blank">LinkedIn</a> |
+I’m a cybersecurity-focused professional with hands-on experience in endpoint
+security, incident response, penetration testing, and security monitoring.
+I build practical attacker/defender labs to understand real-world threats and
+focus on detection, response, containment, and ethical security practices.
+Recently, I’ve expanded into AI by developing tools that enhance security analysis and automation.
+</p>
+
+<p>
 🔗 <a href="https://github.com/farasali12" target="_blank">GitHub</a>
+</p>
+
+<hr>
+
+<h2>🤖 AI Project</h2>
+
+<h3>🔥 AI Log Analyzer</h3>
+<p>
+<a href="https://github.com/farasali12/Ai-Log-Analyzer" target="_blank">View Project</a>
+</p>
+
+<p>
+AI-powered log analysis tool built using Python, Streamlit, and the OpenAI API.
+The application analyzes uploaded log files, detects suspicious activity,
+classifies severity levels, and generates actionable security insights in a
+clean, modern interface.
 </p>
 
 <hr>
@@ -57,7 +76,7 @@ security practices.
     </a>
     <p>
       Application security lab analyzing SQL injection vulnerabilities,
-      exploitation impact, and secure coding considerations in a controlled
+      exploitation impact, and secure coding practices in a controlled
       environment.
     </p>
   </li>
@@ -65,15 +84,14 @@ security practices.
 
 <hr>
 
-<h2>🌐 Web Development Experience</h2>
+<h2>🌐 Development Experience</h2>
 <ul>
   <li>
-    <b>Niagara Falls Tours Website (Private Project)</b>
+    <b>Niagara Falls Tours Website</b>
     <p>
-      Designed and developed a multi-page website for a Niagara Falls tours
-      business using HTML, CSS, and JavaScript. The project focused on
-      responsive design, navigation, and user experience. The site was
-      created as a private project and was not publicly deployed.
+      Designed and developed a responsive multi-page website using HTML,
+      CSS, and JavaScript, focusing on user experience, layout, and clean
+      front-end design.
     </p>
   </li>
 </ul>
@@ -82,17 +100,19 @@ security practices.
 
 <h2>🎯 Areas of Interest</h2>
 <ul>
+  <li>AI in Cybersecurity</li>
   <li>Security Operations (SOC)</li>
   <li>Incident Response & DFIR</li>
   <li>Penetration Testing & Application Security</li>
-  <li>Cloud & Endpoint Security</li>
+  <li>Cloud Security</li>
+  <li>It support specialist</li>
+  <li>AI Automation</li>
 </ul>
 
 <hr>
 
 <h2>📫 Get in Touch</h2>
 <p>
-If you’d like to discuss cybersecurity projects, security roles, or
-collaboration opportunities, feel free to connect with me on LinkedIn.
+Open to opportunities in AI, cybersecurity, It support and cloud-related roles.
+Feel free to connect with me on my email | farasali12@gmail.com | 
 </p>
-
