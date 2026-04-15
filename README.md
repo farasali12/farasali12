@@ -9,7 +9,9 @@ I’m a cybersecurity-focused professional with hands-on experience in endpoint
 security, incident response, penetration testing, and security monitoring.
 I build practical attacker/defender labs to understand real-world threats and
 focus on detection, response, containment, and ethical security practices.
-Recently, I’ve expanded into AI by developing tools that enhance security analysis and automation.
+
+Recently, I’ve expanded into AI by building tools that support real-world
+security workflows such as log analysis, incident triage, and automated response planning.
 </p>
 
 <p>
@@ -18,7 +20,28 @@ Recently, I’ve expanded into AI by developing tools that enhance security anal
 
 <hr>
 
-<h2>🤖 AI Project</h2>
+<h2>🤖 AI Projects</h2>
+
+<h3>🚨 ARIA – AI Incident Response Assistant</h3>
+<p>
+<a href="https://github.com/farasali12/Aria-incident-assistant" target="_blank">View Project</a>
+</p>
+
+<p>
+A web-based AI incident response tool built using Flask, JavaScript, and the OpenAI API.
+ARIA supports real-world security workflows including incident triage, artifact analysis,
+and automated playbook generation. The goal of this project was to simulate how a security
+analyst investigates and responds to threats in a practical environment.
+</p>
+
+<ul>
+  <li>AI-powered incident triage through chat interface</li>
+  <li>Quick artifact analysis (IP, logs, domains, etc.)</li>
+  <li>Automated incident response playbook generation</li>
+  <li>Severity classification and investigation tracking</li>
+</ul>
+
+<br>
 
 <h3>🔥 AI Log Analyzer</h3>
 <p>
@@ -29,7 +52,7 @@ Recently, I’ve expanded into AI by developing tools that enhance security anal
 AI-powered log analysis tool built using Python, Streamlit, and the OpenAI API.
 The application analyzes uploaded log files, detects suspicious activity,
 classifies severity levels, and generates actionable security insights in a
-clean, modern interface.
+clean interface.
 </p>
 
 <hr>
@@ -90,8 +113,7 @@ clean, modern interface.
     <b>Niagara Falls Tours Website</b>
     <p>
       Designed and developed a responsive multi-page website using HTML,
-      CSS, and JavaScript, focusing on user experience, layout, and clean
-      front-end design.
+      CSS, and JavaScript, focusing on layout, usability, and front-end design.
     </p>
   </li>
 </ul>
@@ -105,7 +127,7 @@ clean, modern interface.
   <li>Incident Response & DFIR</li>
   <li>Penetration Testing & Application Security</li>
   <li>Cloud Security</li>
-  <li>It support specialist</li>
+  <li>IT Support</li>
   <li>AI Automation</li>
 </ul>
 
@@ -113,6 +135,6 @@ clean, modern interface.
 
 <h2>📫 Get in Touch</h2>
 <p>
-Open to opportunities in AI, cybersecurity, It support and cloud-related roles.
-Feel free to connect with me on my email | farasali12@gmail.com | 
+Open to opportunities in AI, cybersecurity, IT support, and cloud-related roles.<br>
+📧 farasali12@gmail.com
 </p>
